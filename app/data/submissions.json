@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "category": ["Singer"],
+    "location": "Delhi",
+    "feeRange": "$500-$1000"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "category": ["Dancer", "Speaker"],
+    "location": "Mumbai",
+    "feeRange": "$400-$900"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "category": "Singer",
+    "priceRange": "$500-$1000",
+    "location": "Delhi"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "category": "Dancer",
+    "priceRange": "$400-$900",
+    "location": "Mumbai"
+  },
+  {
+    "id": 3,
+    "name": "DJ Xtreme",
+    "category": "DJ",
+    "priceRange": "$800-$1500",
+    "location": "Bangalore"
+  }
+]
